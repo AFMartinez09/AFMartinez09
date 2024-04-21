@@ -2,7 +2,7 @@
 
 I'm a full stack web developer a focus on front end development
 
-I am self-taught and a passionate about learning  new ways (technologies or concepts) to do something and understanding how the things work (concepts)
+I am self-taught and passionate about learning  new ways (technologies or concepts) to do something and understanding how the things work (concepts)
 
 When I am coding main goal are:
 <li>Creating clean code.</li>
