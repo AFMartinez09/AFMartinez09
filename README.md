@@ -1,16 +1,42 @@
-### Hi there 👋
+# Hello 👋 I'm Andres Martinez
 
-<!--
-**AFMartinez09/AFMartinez09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full stack web developer a focus on front end development
 
-Here are some ideas to get you started:
+I am self-taught and a passionate about learning  new ways (technologies or concepts) to do something and understanding how the things work (concepts)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+When I am coding main goal are:
+<li>Creating clean code.</li>
+<li>Making it easy to maintain.</li>
+<li>Ensuring it is scalable.</li>
+<li>Improving every day and expanding my knowledge.</li>
+
+
+
+
+## 🛠 Skills
+
+Frontend: <br/>
+[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,react,redux,)](https://skillicons.dev)
+
+Backend: <br />
+[![My Skills](https://skillicons.dev/icons?i=express,nodejs,postgres,sequelize)](https://skillicons.dev)
+
+At the moment I am studying about design patterns
+
+
+## 🚀 About Me
+I am a person who strives to learn as much as possible.<br/>
+I enjoy running half marathons and doing CrossFit.
+
+
+
+## Contact me
+
+My email: 
+andresfelipemartinezt@gmail.com
+
+Portfolio:
+https://andresmartinezportfolio.netlify.app/
+
+LinkedIn:
+https://www.linkedin.com/in/andres-martinez-12437b275/
