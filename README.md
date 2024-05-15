@@ -16,12 +16,12 @@ When I am coding main goal are:
 ## 🛠 Skills
 
 Frontend: <br/>
-[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,react,redux,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,react,redux,nextjs)](https://skillicons.dev)
 
 Backend: <br />
-[![My Skills](https://skillicons.dev/icons?i=express,nodejs,postgres,sequelize)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=express,nodejs,postgres,sequelize,mysql)](https://skillicons.dev)
 
-At the moment I am studying about design patterns
+At the moment I am studying Tailwind and Docker
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AFMartinez09&layout=compact" alt="Lenguajes utilizados" />
 </p>
